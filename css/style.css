@@ -1855,3 +1855,10 @@ aside .search .btn{
 	display: block;
 	font-size: 16px;
 }
+
+/* Custom Style */
+.etapas{
+	font-weight: 500;
+	padding-bottom: 35px;
+	font-size: 25px;
+}
